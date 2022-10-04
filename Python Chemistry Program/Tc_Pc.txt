@@ -1,0 +1,17 @@
+Compound,Tc,Pc,w
+Ammonia,405.5,111.3,0.257
+Argon,0,0,-0.002
+Carbon dioxide,304.2,72.9,0.225
+Carbon monoxide,133.0,34.5,0.045
+Chlorine,417.0,76.1,0.073
+Ethane,305.4,48.2,0.099
+Ethylene,283.1,50.5,0.087
+Hydrogen sulfide,373.6,88.9,0.090
+Methane,190.70,45.8,0.011
+Methyl alcohol(Methanol),513.20,78.50,0.565
+Nitrogen,126.20,33.5,0.037
+Oxygen,154.4,49.7,0.021
+Propane,369.9,42.0,0.152
+Sulfur dioxide,430.7,77.8,0.251
+Water,647.4,218.3,0.344
+

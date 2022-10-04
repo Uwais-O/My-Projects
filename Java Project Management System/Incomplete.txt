@@ -1,0 +1,56 @@
+Project Name: 1
+Project Number: 22
+Project Type: House
+Address: 12 Addy
+ERF number: 234
+Total fees: 324.0
+Total amount Paid: 324.0
+Due Date: 11/10/2019
+  
+Architect Information: 
+Name: 2
+Telephone Number: 2
+Email Address: 2
+Physical Address: 2
+  
+Contractor Information: 
+Name: 2
+Telephone Number: 2
+Email Address: 2
+Physical Address: 2
+  
+Customer information:
+Name: 2
+Telephone Number: 2
+Email Address: 2
+Physical Address: 2
+Project Status: Incompleted
+  
+Project Name: 1
+Project Number: 1
+Project Type: 1
+Address: 1
+ERF number: 1
+Total fees: 1.0
+Total amount Paid: 1.0
+Due Date: 1
+ 
+Architect Information: 
+Name: 1
+Telephone Number: 1
+Email Address: 1
+Physical Address: 1
+ 
+Contractor Information: 
+Name: 1
+Telephone Number: 1
+Email Address: 1
+Physical Address: 1
+ 
+Customer information:
+Name: 1
+Telephone Number: 1
+Email Address: 1
+Physical Address: 1
+Project Status: Incompleted
+ 

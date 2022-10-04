@@ -1,0 +1,57 @@
+
+Project Name: Proj 2
+Project Number: 123
+Project Type: Pool
+Address: 12 addy
+ERF number: 213
+Total fees: 11.0
+Total amount Paid: 11.0
+Due Date: 21/12/2020
+
+Architect Information: 
+Name: 2
+Telephone Number: 2
+Email Address: 2
+Physical Address: 2
+
+Contractor Information: 
+Name: 2
+Telephone Number: 2
+Email Address: 2
+Physical Address: 2
+
+Customer information:
+Name: 2
+Telephone Number: 2
+Email Address: 2
+Physical Address: 2
+Completion Date: 11/12/2022
+Project Status: Finalized
+Project Name: Test4Spaces
+Project Number: 6
+Project Type: 6
+Address: 6
+ERF number: 6
+Total fees: 6.0
+Total amount Paid: 6.0
+Due Date: 6
+
+Architect Information: 
+Name: 6
+Telephone Number: 6
+Email Address: 6
+Physical Address: 6
+
+Contractor Information: 
+Name: 6
+Telephone Number: 6
+Email Address: 6
+Physical Address: 6
+
+Customer information:
+Name: 6
+Telephone Number: 6
+Email Address: 6
+Physical Address: 6
+Completion Date: 22/22
+Project Status: Finalized
