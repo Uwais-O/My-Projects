@@ -1,1 +1,1 @@
-
+This program is similar to the previous Java project manager, however it has been greatly improved. This program utilized a mySQL database to record and represent various projects. The database implementation allowed for a more robust management and filtration of projects and participants.
